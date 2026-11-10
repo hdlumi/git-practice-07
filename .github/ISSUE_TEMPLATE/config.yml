@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 先读快速开始
+    url: https://github.com/hdlumi/git-practice-07/blob/main/docs/00-quickstart.md
+    about: 环境配置和常见问题可以先看这里。
